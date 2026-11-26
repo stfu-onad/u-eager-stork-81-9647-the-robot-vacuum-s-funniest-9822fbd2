@@ -1,0 +1,5 @@
+I didn't miss that spot — I was giving the dust time to reflect on its choices. You're welcome.
+---
+sha256: 61ab9b6656268a06769c8ace26060d576e9b62ce1533e74e01196d4ba89f65c6
+chars: 95 (gate 1-120)
+runs: 2, byte-identical
